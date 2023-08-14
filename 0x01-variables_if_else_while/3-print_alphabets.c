@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - main block
- * Description: Prints the alphabet in lowercase,
+ * Description-> prints the alphabet in lowercase,
  * and then in uppercase followed by a new line.
  */
 int main(void)
@@ -25,4 +25,3 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
-
