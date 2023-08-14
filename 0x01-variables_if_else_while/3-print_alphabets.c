@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - main block
- * Description: prints the alphabet in lowercase,
+ * Description: Prints the alphabet in lowercase,
  * and then in uppercase followed by a new line.
  */
 int main(void)
@@ -21,7 +21,8 @@ int main(void)
 		putchar(c);
 		c++;
 	}
-	putchar('\n');
 	
+	putchar('\n');
 	return (0);
 }
+
