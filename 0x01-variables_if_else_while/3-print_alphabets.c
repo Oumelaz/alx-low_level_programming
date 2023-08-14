@@ -1,13 +1,13 @@
 #include <stdio.h>
 /**
  * main - main block
- * Description: Prints the alphabet in lowercase,
- * and then in uppercase followed by a new line.
+ * Description:  Prints the alphabet in lowercase,
+ * and then in uppercase, followed by a new line.
  */
 int main(void)
 {
 	char c = 'a';
-	
+
 	while (c <= 'z')
 	{
 		putchar(c);
@@ -21,7 +21,7 @@ int main(void)
 		putchar(c);
 		c++;
 	}
-	
+
 	putchar('\n');
 	return (0);
 }
