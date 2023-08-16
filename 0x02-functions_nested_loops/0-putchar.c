@@ -2,7 +2,6 @@
 
 /**
  * main - Entry point
- * Description: Write a program that prints _putchar.
  * Return:0
  */
 
